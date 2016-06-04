@@ -10,6 +10,9 @@ Met de browser kun je al een beetje onder de motorkap van het web kijken. De mee
 
 De browser communiceert met de servers die de webpagina's en web-apps aanbieden. Deze communicatie gebeurt met door middel van *protocollen*: vaste afspraken, zodat de browser en de server precies weten wie aan de beurt is, en wat er als volgende stap moet gebeuren. Het basisprotocol voor het web is *http*: hypertext transfer protocol. Een beveiligde variant hiervan is *https*.
 
+## Het web, dat maak je zelf
+
+Het web is erop gemaakt dat iedereen hier zijn eigen bijdrage aan kan leveren. De hulpmiddelen om je eigen plek in het web in te richten zijn eenvoudig en goedkoop beschikbaar. Voor de inrichting van je eigen plek hoef je van niemand toestemming te vragen - en je bent niet gebonden aan de regels van Facebook of anderen die hun eigen versie van het web aanbieden.
 
 
 
