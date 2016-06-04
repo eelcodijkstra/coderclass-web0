@@ -4,6 +4,10 @@ De browser is je venster naar het web. In de browser navigeer je naar de verschi
 
 ## Voor gewone gebruikers
 
+### URLs en links
+
+Om een webpagina te bekijken, of een web-app te gebruiken, moet je het webadres daarvan weten. Zo'n webadres noemen we ook een URL (Uniform Resource Locator). Als je de URL van een webpagina invult in het webpagina-veld van de browser, haalt de browser de nodige bestanden op van de server van die webpagina, en toont de webpagina in het browser-venster.
+
 ### Navigeren
 
 De browser houdt bij welke pagina's je bezocht hebt. Soms "verdwaal" je op het web: je hebt op een aantal links geklikt, maar wilt eigenlijk een aantal stappen terug. Hiervoor gebruik je het "historie"-pad dat de browser voor je bijhoudt:
