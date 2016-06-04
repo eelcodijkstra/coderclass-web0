@@ -2,7 +2,7 @@
 
 ### Hoe geef je de browser de webpagina door?
 
-Je wilt iets opzoeken op Wikipedia. Welke stappen neem je daarbij, in welke volgorden?
+Je wilt iets opzoeken op Wikipedia. (Zoek het onderwerp "protocol" op Wikipedia.) Welke stappen neem je daarbij, in welke volgorde?
 
 * hoe kom je bij Wikipedia?
 * hoe kom je bij het onderwerp, in Wikipedia?
