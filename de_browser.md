@@ -6,7 +6,24 @@ De browser is je venster naar het web. In de browser navigeer je naar de verschi
 
 ### URLs en links
 
-Om een webpagina te bekijken, of een web-app te gebruiken, moet je het webadres daarvan weten. Zo'n webadres noemen we ook een URL (Uniform Resource Locator). Als je de URL van een webpagina invult in het webpagina-veld van de browser, haalt de browser de nodige bestanden op van de server van die webpagina, en toont de webpagina in het browser-venster.
+Om een webpagina te bekijken, of een web-app te gebruiken, moet je het webadres daarvan weten. Zo'n webadres noemen we ook een *URL* (Uniform Resource Locator). Als je de URL van een webpagina invult in het webpagina-veld van de browser, haalt de browser de nodige bestanden op van de server van die webpagina, en toont de webpagina in het browser-venster.
+
+Een URL is vaak onderdeel van een *link* (weblink): een stukje tekst of een figuur waaraan een URL gekoppeld is. Soms is deze tekst gelijk aan de link, maar vaak verschilt die tekst.
+
+Een paar voorbeelden van links:
+
+* http://infvo.com/coderclass
+* [coderclass-wiki](http://infvo.com/coderclass)
+* [https://mijn.ing.nl/internetbankieren/](https://bankieren.rabobank.nl/klanten)
+
+Je ziet aan een link niet direct wat de URL die bij die link hoort: de tekst van de link kan erg misleidend zijn (zoals je aan de voorbeelden ziet).
+
+Je kunt op verschillende manieren aan een webadres komen:
+
+* als je zoekt via een zoekmachine (bijvoorbeeld Google) bevat het resultaat links naar de gevonden websites;
+* een document, bijvoorbeeld een mailbericht of een chatbericht, bevat een link naar een website;
+* veel bedrijven en organisaties geven de URL van hun bedrijf op hun auto's, in hun reclames, enzovoorts.
+* 
 
 ### Navigeren
 
