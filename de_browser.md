@@ -4,6 +4,15 @@ De browser is je venster naar het web. In de browser navigeer je naar de verschi
 
 ## Voor gewone gebruikers
 
+### Navigeren
+
+De browser houdt bij welke pagina's je bezocht hebt. Soms "verdwaal" je op het web: je hebt op een aantal links geklikt, maar wilt eigenlijk een aantal stappen terug. Hiervoor gebruik je het "historie"-pad dat de browser voor je bijhoudt:
+
+* via de pijltjes kun je hierin achteruit (en ook weer vooruit);
+* via het menu kun je deze historie bekijken, en naar een vorige pagina gaan.
+
+Daarnaast kun je de *bookmarks* gebruiken, en de favoriete pagina's die je aangegeven hebt. 
+
 ### Instellen van je eigen voorkeuren
 
 Je kunt in de browser je eigen voorkeuren instellen, bijvoorbeeld voor de lettergrootte of de lettertypes voor het bekijken van de webpagina's.
@@ -16,5 +25,6 @@ Je kunt in de browser je eigen voorkeuren instellen, bijvoorbeeld voor de letter
 
 De meeste moderne browsers hebben ontwikkelgereedschappen ingebouwd, voor het ontwikkelen van webpagina's en webtoepassingen. Hiermee kun je de verschillende bestanden en instellingen bekijken van de webpagina die actief is. Je kunt ook het netwerkverkeer zien: de communicatie met de server(s).
 
+Soms moet je deze ontwikkelgereedschappen activeren, in de voorkeurinstellingen van de browser.
 
   
