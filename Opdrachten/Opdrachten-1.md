@@ -16,3 +16,9 @@ Je kunt bijvoorbeeld gebruik maken van:
 * het zoekveld in Wikipedia
 * andere?
 
+### URLs en links
+
+Maak een link met een misleidende tekst - die de gebruiker van die link naar een heel andere URL stuurt dan deze verwacht.
+
+Maak een link met een duidelijke tekst - die de gebruiker een duidelijke aanwijzing geeft over de bestemming (URL) van die link.
+
