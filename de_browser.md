@@ -22,8 +22,7 @@ Je kunt op verschillende manieren aan een webadres komen:
 
 * als je zoekt via een zoekmachine (bijvoorbeeld Google) bevat het resultaat links naar de gevonden websites;
 * een document, bijvoorbeeld een mailbericht of een chatbericht, bevat een link naar een website;
-* veel bedrijven en organisaties geven de URL van hun bedrijf op hun auto's, in hun reclames, enzovoorts.
-* 
+* veel bedrijven en organisaties zetten de URL van hun bedrijf op hun auto's, in hun reclames, enzovoorts.
 
 ### Navigeren
 
