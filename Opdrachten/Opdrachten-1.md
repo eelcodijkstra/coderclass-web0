@@ -9,10 +9,10 @@ Je wilt iets opzoeken op Wikipedia. Welke stappen neem je daarbij, in welke volg
 
 Je kunt bijvoorbeeld gebruik maken van:
 
-* gebruik van een bookmark;
-* gebruik van het zoekveld van de browser;
-* gebruik van het adresveld van de browser;
-* gebruik van het zoekveld in een zoekmachine;
-* gebruik van het zoekveld in Wikipedia
+* een bookmark;
+* het zoekveld van de browser;
+* het adresveld van de browser;
+* het zoekveld in een zoekmachine;
+* het zoekveld in Wikipedia
 * andere?
 
