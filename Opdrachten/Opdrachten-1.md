@@ -46,7 +46,16 @@ Probeer vervolgens een ingewikkelder voorbeeld, zoals:
 
 Je kunt met Goggles niet alleen de inhoud aanpassen, zoals de tekst en de figuren, maar ook de vormgeving.
 
+Zoek in het voorbeeld-document (XXX) een voorbeeld van een link. Deze heeft de volgende vorm:
 
+```html
+<a href="http://infvo.com/coderclass">Metis Coderclass wiki</a>
+```
+
+Hierin is de tekst tussen `<a>` en `<\a>` de tekst van de link, en de tekens tussen quotes na de `href=` de URL van de link.
+
+* verander met Goggles de tekst van een link
+* verander met Goggles in URL van een link
 
 
 
