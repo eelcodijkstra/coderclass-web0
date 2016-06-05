@@ -4,6 +4,6 @@
 * [Wat gebeurt er als je het web gebruikt?](chapter1.md)
 * [De browser](de_browser.md)
 * [Opbouw van een HTML-document](html-document.md)
+* 
 * [Opdrachten](Opdrachten/Opdrachten-1.md)
-* De server
 
