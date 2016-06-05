@@ -32,5 +32,6 @@ Maak een link met een duidelijke tekst - die de gebruiker een duidelijke aanwijz
 * Bekijk een HTML-document op verschillende apparaten, en op papier. Vergroot en verklein het venster, en bekijk wat dit tot gevolg heeft.
 * Pas in de browser-voorkeuren de minimale grootte van de letters aan.
 * Pas in de browser-voorkeuren de lettertypes aan die je bij voorkeur gebruikt voor de weergave van tekst.
-* 
+
+
 
