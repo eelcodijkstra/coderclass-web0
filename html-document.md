@@ -45,7 +45,7 @@ In het geval van HTML past de browser de vorm aan, aan de omgeving waarin de inh
 
 > Als gebruiker heb je veel invloed op de uiteindelijke vorm; je kunt bijvoorbeeld het lettertype aanpassen. Dit kan bijvoorbeeld handig zijn als je moeite met lezen hebt.
 
-In het geval van PDF kun je spreken van een vaste vorm, in het geval van HTML van een "vloeibare" vorm. Deze wordt pas vastgelegd op het allerlaatste moment, in de omgeving van de gebruiker.
+In het geval van PDF kun je spreken van een *vaste vorm*, in het geval van HTML van een *vloeibare vorm*. Deze wordt pas vastgelegd op het allerlaatste moment, in de omgeving van de gebruiker.
 
 Dit stelt speciale eisen aan het ontwerp van HTML-pagina's: je moet ervoor zorgen dat deze in verschillende omstandigheden er behoorlijk uitziet.
 
