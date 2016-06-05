@@ -58,4 +58,8 @@ Hierin is de tekst tussen `<a>` en `<\a>` de tekst van de link, en de tekens tus
 * verander met Goggles in URL van een link
 
 
+### Het web, dat maak je zelf
+
+Met [Mozilla Thimble](https://thimble.mozilla.org/nl/) kun je eenvoudig je eerste website maken. Het eenvoudigst is om met een bestaand voorbeeld te beginnen. Dat kun je "*remixen* tot je eigen versie.
+
 
