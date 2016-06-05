@@ -5,4 +5,5 @@
 * [De browser](de_browser.md)
 * [Opbouw van een HTML-document](html-document.md)
 * [Opdrachten](Opdrachten/Opdrachten-1.md)
+* De server
 
