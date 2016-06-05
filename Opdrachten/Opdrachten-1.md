@@ -22,3 +22,8 @@ Maak een link met een misleidende tekst - die de gebruiker van die link naar een
 
 Maak een link met een duidelijke tekst - die de gebruiker een duidelijke aanwijzing geeft over de bestemming (URL) van die link.
 
+### Andere opdrachten
+
+* Ga na of de browser die je gebruikt een *evergreen browser* is.
+* 
+
