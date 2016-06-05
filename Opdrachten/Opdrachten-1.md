@@ -25,5 +25,7 @@ Maak een link met een duidelijke tekst - die de gebruiker een duidelijke aanwijz
 ### Andere opdrachten
 
 * Ga na of de browser die je gebruikt een *evergreen browser* is.
+* Bekijk een PDF-document op verschillende apparaten, en op papier. Vergroot en verklein het venster, en bekijk wat dit tot gevolg heeft.
+* Bekijk een HTML-document op verschillende apparaten, en op papier. Vergroot en verklein het venster, en bekijk wat dit tot gevolg heeft.
 * 
 
