@@ -1,6 +1,6 @@
 # Opbouw van een HTML-document
 
-Een HTML-document is een tekstbestand ("platte tekst") met een bepaalde structuur. "Platte tekst" betekent dat je een HTML-bestand met elke teksteditor zoals Notepad kunt bewerken. Je hebt geen speciale tekstverwerker nodig. Vaak gebruik je hiervoor eenzelfde programma als waarmee je ook programmatekst bewerkt.
+Een HTML-document is een tekstbestand ("platte tekst") met een bepaalde structuur. "Platte tekst" betekent dat je een HTML-document met een eenvoudige teksteditor zoals Notepad kunt bewerken. Je hebt geen speciale tekstverwerker nodig. Vaak gebruik je voor HTML-documenten eenzelfde programma als waarmee je ook programmatekst bewerkt.
 
 > Een tekstbestand bestaat uit UTF-tekens: letters, cijfers, leestekens, en speciale symbolen. Door het gebruik van UTF kun je ook tekens uit allerlei soorten schrift gebruiken. In de meeste gevallen beperken we ons tot de Ascii-tekens: dit zijn ongeveer de tekens die op je toetsenbord voorkomen.
 
