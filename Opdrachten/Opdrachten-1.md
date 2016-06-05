@@ -33,5 +33,20 @@ Maak een link met een duidelijke tekst - die de gebruiker een duidelijke aanwijz
 * Pas in de browser-voorkeuren de minimale grootte van de letters aan.
 * Pas in de browser-voorkeuren de lettertypes aan die je bij voorkeur gebruikt voor de weergave van tekst.
 
+### HTML-documenten
+
+Met behulp van Mozilla [X-ray Goggles](https://goggles.mozilla.org/) kun je een HTML-document bekijken en de weergave ervan aanpassen. Je kunt zo je eigen versie van een webpagina maken.
+
+1. installeer X-ray Goggles
+2. oefen met het voorbeeld (Mozilla).
+
+Probeer vervolgens een ingewikkelder voorbeeld, zoals:
+
+* maak een aangepaste versie van de homepagina van de website van je school.
+
+Je kunt met Goggles niet alleen de inhoud aanpassen, zoals de tekst en de figuren, maar ook de vormgeving.
+
+
+
 
 
