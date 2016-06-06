@@ -8,8 +8,6 @@ Voorbeelden van URLs:
 * `https://google.nl`
 * `https://thimble.mozilla.org/nl/`
 
-Een URL 
-
 Een URL bestaat uit de volgende onderdelen:
 
 * het protocol (`http:`, `https:`)
