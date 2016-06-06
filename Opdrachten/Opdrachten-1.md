@@ -62,4 +62,9 @@ Hierin is de tekst tussen `<a>` en `<\a>` de tekst van de link, en de tekens tus
 
 Met [Mozilla Thimble](https://thimble.mozilla.org/nl/) kun je eenvoudig je eerste website maken. Het eenvoudigst is om met een bestaand voorbeeld te beginnen. Dat kun je "*remixen* tot je eigen versie.
 
+### URLs en links
 
+* voer een mail-URL in in het webadres-veld van de browser, bijvoorbeeld: `mailto: eelco@infvo.com`.
+* voer een URL in met een foutieve domeinnaam. Welke melding krijg je, en waar komt die vandaan?
+* voer een URL in met een juiste domeinnaam, maar met een fout in de padnaam. Welke melding krijg je, en waar komt die vandaan?
+* 
