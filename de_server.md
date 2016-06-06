@@ -1,8 +1,8 @@
-# De server
+# De webserver
 
-De browser is je venster op het web. De browser haalt het html-document op van de server en geeft dit weer.
+De browser is je venster op het web. De browser haalt het html-document op van de webserver en geeft dit weer.
 
-De server stuurt het html-document op naar de browser.
+De webserver stuurt het html-document op naar de browser.
 
 Waar komen de html-document die je in de browser ziet, vandaan? We spreken wel over het web, maar waar is dat? Soms wordt gezegd: "in the cloud", maar dat lijkt meer beeldspraak dan werkelijkheid.
 
