@@ -27,6 +27,12 @@ In het antwoord stuurt de server ook extra gegevens op in de "headers":
 
 Een POST-request bevat, naast de gegevens van een GET-request, onder andere de volgende gegevens:
 
+### GET is idempotent - POST niet
+
+De GET-opdracht *idempotent*: het resultaat is hetzelfde als je dit één keer uitvoert, of vaker. Als je een pagina in de browser herlaadt via de "refresh" knop in de browser krijg je weer hetzelfde resultaat. 
+
+De POST-opdracht is niet *idempotent*: als je een formulier opnieuw opstuurt, kan dit een extra effect hebben. Als het een bestelformulier is, kun je op die manier een product tweemaal bestellen. De browser waarschuwt daarom altijd in dit geval, met de vraag of je zeker weet dat je het formulier nog een keer wilt insturen.
+
 ### Stapelen van protocollen
 
 HTTP gebruikt het TCP-protocol, wat op zich weer het IP-protocol gebruikt. Dit is het basisprotocol van het internet. In een WiFi netwerk gebruikt IP het WiFi-protocol voor de "fysische laag". Deze fysische laag zorgt voor het daadwerkelijke transport van de bits in deze verschillende protocollen. Op deze manier krijg je een stapel ("stack") van protocollen:
