@@ -16,12 +16,6 @@ Je kunt bijvoorbeeld gebruik maken van:
 * het zoekveld in Wikipedia
 * andere?
 
-### URLs en links
-
-Maak een link met een misleidende tekst - die de gebruiker van die link naar een heel andere URL stuurt dan deze verwacht.
-
-Maak een link met een duidelijke tekst - die de gebruiker een duidelijke aanwijzing geeft over de bestemming (URL) van die link.
-
 ### Andere opdrachten
 
 * Ga na of de browser die je gebruikt een *evergreen browser* is.
@@ -67,4 +61,8 @@ Met [Mozilla Thimble](https://thimble.mozilla.org/nl/) kun je eenvoudig je eerst
 * voer een mail-URL in in het webadres-veld van de browser, bijvoorbeeld: `mailto: eelco@infvo.com`.
 * voer een URL in met een foutieve domeinnaam. Welke melding krijg je, en waar komt die vandaan?
 * voer een URL in met een juiste domeinnaam, maar met een fout in de padnaam. Welke melding krijg je, en waar komt die vandaan?
-* 
+
+Maak een link met een misleidende tekst - die de gebruiker van die link naar een heel andere URL stuurt dan deze verwacht.
+
+Maak een link met een duidelijke tekst - die de gebruiker een duidelijke aanwijzing geeft over de bestemming (URL) van die link.
+
