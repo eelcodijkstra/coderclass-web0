@@ -11,7 +11,7 @@ De belangrijkste soorten requests zijn:
 
 Voor een overzicht van de andere requests, zie: [Wikipedia: HTTP]( https://nl.wikipedia.org/wiki/Hypertext_Transfer_Protocol).
 
-Een GET-request bevat onder andere de volgende gegevens:
+Een GET-opdracht bevat onder andere de volgende gegevens:
 
 * URL
 * `Host`: hostnaam van de URL
@@ -23,9 +23,11 @@ Een GET-request bevat onder andere de volgende gegevens:
 
 In het antwoord stuurt de server ook extra gegevens op in de "headers":
 
+* QQQQ
 
+Een POST-opdracht bevat, naast de gegevens van een GET-opdracht, onder andere de volgende gegevens:
 
-Een POST-request bevat, naast de gegevens van een GET-request, onder andere de volgende gegevens:
+* QQQQ
 
 ### GET is idempotent - POST niet
 
