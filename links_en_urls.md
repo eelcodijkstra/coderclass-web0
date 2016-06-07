@@ -14,7 +14,7 @@ Een URL bestaat uit de volgende onderdelen:
 * de domeinnaam (`infvo.com`, `google.nl`, `thimble.mozilla.org`)
 * de padnaam (`coderclass`, `nl/`)
 * de querystring (`?x=a&y=b`)
-* de hash(?)
+* de fragment identifier (`#section3 `)
 
 
 Het *protocol* geeft aan op welke manier met de server gecommuniceerd moet worden. Voor webdocumenten is dit `http` of `https`. 
