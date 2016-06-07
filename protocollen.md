@@ -27,6 +27,9 @@ In het antwoord stuurt de server ook extra gegevens op in de "headers":
 
 Een POST-request bevat, naast de gegevens van een GET-request, onder andere de volgende gegevens:
 
+### Stapelen van protocollen
+
+HTTP gebruikt het TCP-protocol, wat op zich weer het IP-protocol gebruikt. Dit is het basisprotocol van het internet. In een WiFi netwerk gebruikt IP het WiFi-protocol voor de "fysische laag". Deze fysische laag zorgt voor het daadwerkelijke transport van de bits in deze verschillende protocollen. Op deze manier krijg je een stapel ("stack") van protocollen:
 
 
 
