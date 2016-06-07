@@ -66,3 +66,11 @@ Maak een link met een misleidende tekst - die de gebruiker van die link naar een
 
 Maak een link met een duidelijke tekst - die de gebruiker een duidelijke aanwijzing geeft over de bestemming (URL) van die link.
 
+### Protocollen - HTTP(S)
+
+1. laad de onderstaande pagina in de browser, door op de link te klikken; en bekijk de interactie met de server in de ontwikkeltools.
+2. ververs deze pagina (met de "ververs" knop van de browser), en bekijk de interactie met de server.
+3. vul het formulier in, en stuur dit op naar de server ("Submit"). Bekijk de interactie met de server in de ontwikkeltools.
+4. ververs deze pagina (met de "ververs" knop van de browser), en bekijk de interactie met de server.
+
+Beschrijf in het kort de belangrijkste zaken die je hierbij opgevallen zijn.
