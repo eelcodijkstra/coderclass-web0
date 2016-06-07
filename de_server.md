@@ -8,11 +8,11 @@ Waar komen de html-document die je in de browser ziet, vandaan? We spreken wel o
 
 Wat zit er achter die "cloud"?
 
-Een webserver is een computer die op verzoeken naar webpagina's afhandelt, en html- en andere bestanden naar de browser stuurt.
+Een webserver is een computerprogramma dat verzoeken naar webpagina's afhandelt, en als reactie ("reponse") html- en andere bestanden naar de browser stuurt.
 
-Een webserver kan een hele kleine computer zijn - die bijvoorbeeld ingebouwd is in een printer of in een weegschaal. Het kan ook een krachtige server zijn die opgesteld is in een server-farm.
+Een webserver kan op een hele kleine computer draaien - die bijvoorbeeld ingebouwd is in een printer of in een weegschaal. De webservers van grote websites als Wikipedia en Google draaien op krachtige servercomputers zijn die opgesteld is in een server-farm.
 
-Je eigen laptop kun je ook als server gebruiken - als je daarop de juiste software installeert.
+Ook op je eigen laptop kun je een webserver laten werken. De software hiervoor maakt soms al deel uit van je Operating System.
 
 Voor een webpagina gebruik je vaak bestanden van verschillende servers.
 
