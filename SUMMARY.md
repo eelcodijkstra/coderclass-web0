@@ -8,5 +8,9 @@
 * [Links en URLs](links_en_urls.md)
 * [Protocollen](protocollen.md)
 * [Security (veiligheid)](securitymd.md)
+* [En verder](opmerkingen.md)
+
+### Opdrachten
+
 * [Opdrachten](Opdrachten/Opdrachten-1.md)
 
