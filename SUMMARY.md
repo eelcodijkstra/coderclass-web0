@@ -8,10 +8,7 @@
 * [Links en URLs](links_en_urls.md)
 * [Protocollen](protocollen.md)
 * [Security (veiligheid)](securitymd.md)
-* [JavaScript](javascript.md)
+* [JavaScript](javascriptmd.md)
 * [En verder](opmerkingen.md)
-
-### Opdrachten
-
 * [Opdrachten](Opdrachten/Opdrachten-1.md)
 
