@@ -17,4 +17,12 @@ Voor veel diensten moet je wachtwoorden gebruiken. Soms lekken deze wachtwoorden
 
 ### Identificatie en authenticatie
 
-* 
+* identificatie: wie ben je?
+* authenticatie: kun je bewijzen wie je bent?
+
+De eenvoudigste en meest gebruikte vorm van authenticatie is de combinatie gebruikersnaam/wachtwoord.
+
+Voor extra veiligheid worden soms extra stappen gebruikt: voor internetbankieren moet je een extra apparaatje gebruiken dat sleutels genereert, of je gebruikt een SMS-bericht voor een extra code.
+
+* vingerafdrukken;
+* andere biometrische gegevens.
