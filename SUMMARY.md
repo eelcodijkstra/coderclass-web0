@@ -10,5 +10,8 @@
 * [Security (veiligheid)](security.md)
 * [JavaScript](javascript.md)
 * [En verder](opmerkingen.md)
+
+### Opdrachten
+
 * [Opdrachten](Opdrachten/Opdrachten-1.md)
 
