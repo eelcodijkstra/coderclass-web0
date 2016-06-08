@@ -74,3 +74,12 @@ Maak een link met een duidelijke tekst - die de gebruiker een duidelijke aanwijz
 4. ververs deze pagina (met de "ververs" knop van de browser), en bekijk de interactie met de server.
 
 Beschrijf in het kort de belangrijkste zaken die je hierbij opgevallen zijn.
+
+### DNS; IP-adressen
+
+Zoek op het web een dienst die via DNS het IP-adres van een domein kan vinden, en omgekeerd. Gebruik deze om het IP-adres van een domein dat je veel gebruikt te vinden.
+
+* Wat is het IP-adres van het domein van je school?
+* Wat is je eigen IP-adres als je via het schoolnetwerk het web bezoekt?
+* Wat is het IP-adres van een andere leerling als deze via het schoolnetwerk het web bezoekt?
+
