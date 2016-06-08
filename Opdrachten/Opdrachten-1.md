@@ -83,3 +83,8 @@ Zoek op het web een dienst die via DNS het IP-adres van een domein kan vinden, e
 * Wat is je eigen IP-adres als je via het schoolnetwerk het web bezoekt?
 * Wat is het IP-adres van een andere leerling als deze via het schoolnetwerk het web bezoekt?
 
+Voor gevorderden:
+
+* Als je met meerdere gebruikers hetzelfde IP-adres lijkt te hebben, hoe kan de server dan deze gebruikers onderscheiden?
+* Als je vanuit een browser eenzelfde server bezoekt, worden deze verschillende sessies meestal netjes uit elkaar gehouden; hoe kan de server dit doen? (Eventueel: met verschillende browsers.)
+
