@@ -2,7 +2,7 @@
 
 ### Hoe geef je de browser de webpagina door?
 
-Je wilt iets opzoeken op Wikipedia. (Zoek het onderwerp "protocol" op Wikipedia.) Welke stappen neem je daarbij, in welke volgorde?
+Zoek een onderwerp op Wikipedia, bijvoorbeeld het begrip "protocol". Welke stappen neem je daarbij, in welke volgorde?
 
 * hoe kom je bij Wikipedia?
 * hoe kom je bij het onderwerp, in Wikipedia?
@@ -26,6 +26,8 @@ Je kunt bijvoorbeeld gebruik maken van:
 * Bekijk een HTML-document op verschillende apparaten, en op papier. Vergroot en verklein het venster, en bekijk wat dit tot gevolg heeft.
 * Pas in de browser-voorkeuren de minimale grootte van de letters aan.
 * Pas in de browser-voorkeuren de lettertypes aan die je bij voorkeur gebruikt voor de weergave van tekst.
+
+Je kunt hiervoor ook de ontwikkelhulpmiddelen in de browser gebruiken. Daarmee kun je zien hoe een webpagina er op een andere apparaat uitziet.
 
 ### HTML-documenten
 
