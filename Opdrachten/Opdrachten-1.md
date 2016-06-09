@@ -64,7 +64,9 @@ Met [Mozilla Thimble](https://thimble.mozilla.org/nl/) kun je eenvoudig je eerst
 * voer een URL in met een foutieve domeinnaam. Welke melding krijg je, en waar komt die vandaan?
 * voer een URL in met een juiste domeinnaam, maar met een fout in de padnaam. Welke melding krijg je, en waar komt die vandaan?
 
-Voor de onderstaande opdrachten kies je een geschikte webpagina, die je bewerkt met X-ray Goggles.
+**Bookmark** Maak van een webpagina die je veel gebruikt een bookmark in de browser. Geef deze bookmark een korte, duidelijke naam. Neem deze bookmark op in de favorietenbalk of in de favorietenpagina ("Top Sites").
+
+**Tekst voor links** Voor de onderstaande opdrachten kies je een geschikte webpagina, die je bewerkt met X-ray Goggles.
 
 1. Maak een link in een pagina met een misleidende tekst - die de gebruiker van die link naar een heel andere URL stuurt dan deze verwacht.
 
@@ -92,3 +94,43 @@ Voor gevorderden:
 * Als je met meerdere gebruikers hetzelfde IP-adres lijkt te hebben, hoe kan de server dan deze gebruikers onderscheiden?
 * Als je vanuit een browser eenzelfde server bezoekt, worden deze verschillende sessies meestal netjes uit elkaar gehouden; hoe kan de server dit doen? (Eventueel: met verschillende browsers.)
 
+## Controlevragen
+
+Uit welke delen bestaat een URL?
+
+We gebruiken als voorbeeld-URL `http://infvo.com/basis/index.php?title=Hoofdpagina`. Geef hierin aan:
+
+* de querystring
+* het pad (de padnaam)
+* het protocol (het schema)
+* de domeinnaam
+
+Geef een voorbeeld van een URL (in WikiPedia) met een fragment-identifier.
+
+**URL-begrippen** Combineer de volgende voorbeelden aan hun soort:
+
+* `192.168.1.255`
+* `http:`
+* `infvo.nl`
+* `http://infvo.com/basis`
+
+
+Gebruik de begrippen: IP-adres, schema (protocol), domeinnaam, URL, 
+
+Waarom kun je een gewone pagina in de browser wel verversen, en een pagina met een formulier dat je opgestuurd hebt, niet? 
+
+**HTTP-requests** Welke HTTP-opdracht (request) wordt gebruikt voor:
+
+* het ophalen van een normale pagina
+* het ophalen van een plaatje
+* het opsturen van een ingevuld formulier
+
+**idempotent** Welke van de volgende opdrachten zijn *idempotent*?
+
+* geef de teller N de waarde 13
+* hoog de teller N met 1 op
+* reset de teller N naar de default-waarde
+
+### Opmerkingen
+
+Bij de meeste andere modules werken we met opdrachten.
