@@ -133,4 +133,5 @@ Waarom kun je een gewone pagina in de browser wel verversen, en een pagina met e
 
 ### Opmerkingen
 
-Bij de meeste andere modules werken we met opdrachten.
+Bij de meeste andere modules werken we, naast de eenvoudige opdrachten om iets te proberen of na te doen, met open opdrachten waarbij de leerlingen zelf iets kunnen maken.
+
