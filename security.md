@@ -26,3 +26,19 @@ Voor extra veiligheid worden soms extra stappen gebruikt: voor internetbankieren
 
 * vingerafdrukken;
 * andere biometrische gegevens.
+
+### Certificaten
+
+Hoe weet je met wie je te maken hebt, als gebruiker van een website of web-app? Is dit echt de website van de bank, of die van iemand anders die door de bank na te doen je gegevens wil achterhalen?
+
+> Een voorbeeld van een dergelijke actie is de poging om in te breken bij de Nationale Onderzoeksraad. Hiervoor is een nep-website ingericht met als URL `https://onderzoekraad.nl`, compleet met certificaat: de bezoekers krijgen netjes het slotje te zien.
+
+Waar moet je op letten in zo'n geval?
+
+* een website met een https-verbinding heeft een certificaat: dit geeft de URL van de website, en de eigenaar van de website.
+* een certificaat is alleen te vertrouwen als het door een instantie uitgegeven is die te vertrouwen is. 
+
+Iedereen kan zelf een certificaat maken: een certificaat alleen maakt het niet veilig. Dit certificaat moet uitgegeven zijn door een instantie die te vertrouwen is.
+
+> De browser controleert hier hier op: als je zelf een certificaat maakt, zullen de meeste browsers dat als niet-veilig aanmerken.
+
