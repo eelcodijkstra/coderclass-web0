@@ -14,5 +14,5 @@
 ### Opdrachten
 
 * [Opdrachten](Opdrachten/Opdrachten-1.md)
-* [Opdrachten-2](Opdrachten/Opdrachten02.md)
+* [Opdrachten-2](Opdrachten/Opdrachten-2.md)
 
