@@ -9,6 +9,7 @@
 * [Protocollen](protocollen.md)
 * [Security (veiligheid)](security.md)
 * [JavaScript](javascript.md)
+* [Opmaak: Style sheets (CSS)](opmaak-css.md)
 * [En verder](opmerkingen.md)
 
 ### Opdrachten
