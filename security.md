@@ -42,3 +42,32 @@ Iedereen kan zelf een certificaat maken: een certificaat alleen maakt het niet v
 
 > De browser controleert hier hier op: als je zelf een certificaat maakt, zullen de meeste browsers dat als niet-veilig aanmerken.
 
+## Enkele voorbeelden van bedreigingen
+
+We geven hieronder enkele voorbeelden van veiligheidsbedreigingen waar je als gebruiker van het internet mee te maken kunt krijgen. Vaak heb je te maken met een combinatie van deze technieken.
+
+### Phishing
+
+We spreken over *Phishing* als iemand op een slinkse manier probeert geheime gegevens, zoals wachtwoorden, te achterhalen. Als gebruiker kun je onder andere op de volgende manieren misleid worden:
+
+* een misleidende URL: de link leidt je naar een andere plek dan je denkt;
+     * de tekst van de link suggereert iets anders dan werkelijke verwijzing via de URL van de link;
+     * de URL verschilt net een klein beetje van de bedoelde URL, bijvoorbeeld: onderzoekraad.nl in plaats van onderzoeksraad.nl (zie 
+
+
+* http://www.risicosinbeeld.nl/homepage/Hoe_herken_je_phishing
+* https://en.wikipedia.org/wiki/Phishing
+
+### Man in the middle
+
+
+
+### Over de veiligheid van de browser
+
+In principe is een browser zo opgezet dat deze geen software (inclusief virussen) kan installeren zonder medeweten en medewerking van de gebruiker. Maar: software is niet perfect, en ook een browser kan veiligheidsgaten bevatten. Je kunt het risico van deze gaten wel sterk verkleinen:
+
+* browser-plugins vormen het grootste risico: in het bijzonder Java (applets) en Flash vormen een risico. Schakel deze plugins niet in. Gebruik plugins alleen voor websites die je helemaal vertrouwt.
+* een verouderde browser vormt ook een risico: zorg er daarom voor dat je de meest recente versie hebt. Moderne browsers zoals Chrome en Firefox zijn "evergreen browsers": deze werken zichzelf regelmatig bij. Je hebt dan niet alleen de grootste veiligheid, maar ook de meest moderne web-functionaliteit.
+
+
+
